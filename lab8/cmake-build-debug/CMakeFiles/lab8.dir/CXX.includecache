@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/anmol/Documents/CPSC221/lab8/Unit.cc
+Unit.h
+/cygdrive/c/Users/anmol/Documents/CPSC221/lab8/Unit.h
+iostream
+-
+sstream
+-
+cassert
+-
+
+/cygdrive/c/Users/anmol/Documents/CPSC221/lab8/Unit.h
+string
+-
+vector
+-
+
+/cygdrive/c/Users/anmol/Documents/CPSC221/lab8/avl.cc
+iostream
+-
+sstream
+-
+iomanip
+-
+cstdlib
+-
+cassert
+-
+vector
+-
+string
+-
+Unit.h
+/cygdrive/c/Users/anmol/Documents/CPSC221/lab8/Unit.h
+
